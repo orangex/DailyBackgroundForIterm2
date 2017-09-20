@@ -1,7 +1,7 @@
 # DailyBackgroundForIterm2
 Set background with bing-daily-pic for Iterm2
 
-[README-中文]()
+[README-中文](https://github.com/orangex/DailyBackgroundForIterm2/tree/master)
 ---
 
 ### Usage
