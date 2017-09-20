@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/orangex/Dropbox/Stuffs/ItermBg/download_bingpic.sh</string>
+        <string>/Users/orangex/Dropbox/Stuffs/DailyBackground/downloader.sh</string>
     </array>
 
     <key>KeepAlive</key>
