@@ -25,4 +25,4 @@ launchctl list
 
 ### Notes
 - you shold install wget at global level or called root？ anyway ，not user level
-- 
+- google may help for more detail
