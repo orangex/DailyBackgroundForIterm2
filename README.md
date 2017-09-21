@@ -38,4 +38,4 @@ launchctl list
 
 最后的效果长这样
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1fjqzdtf2mxj31kw0yjaqt.jpg)
+![](DailyBackgroundForIterm2/DailyBackground/theEffect.png)
