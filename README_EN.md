@@ -32,4 +32,4 @@ launchctl list
 
 Finally, it works like this
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1fjqzdtf2mxj31kw0yjaqt.jpg)
+![](https://github.com/orangex/DailyBackgroundForIterm2/blob/master/DailyBackground/theEffect.png?raw=true)
