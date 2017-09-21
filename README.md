@@ -38,4 +38,4 @@ launchctl list
 
 最后的效果长这样
 
-![4F6F2FF2-9146-4DFC-9E17-08C3716F78F8](/Users/orangex/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/597576243/QQ/Temp.db/4F6F2FF2-9146-4DFC-9E17-08C3716F78F8.png)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1fjqzdtf2mxj31kw0yjaqt.jpg)
