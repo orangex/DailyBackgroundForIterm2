@@ -31,5 +31,11 @@ launchctl list
 ### 注意
 
 - downloader 中需要的 wget 你可能需要去安装，并且安装到 root 这个级别还是叫做全局，反正不是 user 级别。
-
+- .plist 发生改变后需要 unload  一下，再 load
 - 小细节可以 google
+
+
+
+最后的效果长这样
+
+![4F6F2FF2-9146-4DFC-9E17-08C3716F78F8](/Users/orangex/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/597576243/QQ/Temp.db/4F6F2FF2-9146-4DFC-9E17-08C3716F78F8.png)

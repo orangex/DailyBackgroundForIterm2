@@ -1,7 +1,7 @@
 # DailyBackgroundForIterm2
 Set background with bing-daily-pic for Iterm2
 
-[README-中文](https://github.com/orangex/DailyBackgroundForIterm2/tree/master)
+[README-中文]()
 ---
 
 ### Usage
@@ -25,4 +25,11 @@ launchctl list
 
 ### Notes
 - you shold install wget at global level or called root？ anyway ，not user level
+- .plist should be unload & load again when modified
 - google may help for more detail
+
+
+
+Finally, it works like this
+
+![4F6F2FF2-9146-4DFC-9E17-08C3716F78F8](/Users/orangex/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/597576243/QQ/Temp.db/4F6F2FF2-9146-4DFC-9E17-08C3716F78F8.png)
