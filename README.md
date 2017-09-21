@@ -38,4 +38,4 @@ launchctl list
 
 最后的效果长这样
 
-![](DailyBackgroundForIterm2/DailyBackground/theEffect.png)
+![](https://github.com/orangex/DailyBackgroundForIterm2/blob/master/DailyBackground/theEffect.png?raw=true)
